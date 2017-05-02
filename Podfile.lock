@@ -1,0 +1,14 @@
+PODS:
+  - ServiceSDK (2.0.2):
+    - ServiceSDK/All (= 2.0.2)
+  - ServiceSDK/All (2.0.2)
+
+DEPENDENCIES:
+  - ServiceSDK
+
+SPEC CHECKSUMS:
+  ServiceSDK: 4b532e42a16f9e0c635f3e250a17006f2773d990
+
+PODFILE CHECKSUM: 3879f393141d3b99433b315495bcfab6b662ff22
+
+COCOAPODS: 1.2.0.beta.1
